@@ -1,6 +1,7 @@
 # my_note
-Based on the YouTube video "Make a Note taking App Using Flutter and Sqflite" https://www.youtube.com/watch?v=RGa4HJutK48 by Doctor Code
+Based on the YouTube video "Flutter Tutorial - SQL Database Storage Using Sqlite & Sqflite CRUD | Android & iOS" https://www.youtube.com/watch?v=UpKrhZ0Hppk&t=1314s by Johannes Milke
 
+Original: https://github.com/JohannesMilke/sqflite_database_example
 
 ## Getting Started
 
